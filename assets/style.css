@@ -1,0 +1,8 @@
+body{
+    background-color: beige;
+}
+nav{
+    display: flex;
+    align-items: flex-start;
+    display: inline;
+}
